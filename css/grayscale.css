@@ -302,3 +302,12 @@ a:focus, a:hover {
 footer {
   padding: 5rem 0;
 }
+
+.photo{
+  width: 400px;
+  border-color: rgba(0,0,0,0.5);
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 1%;
+  margin-bottom: 20px;
+  }
